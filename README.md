@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhish Verma</h1>
-<h3 align="center">A 24 y/o passionate frontend developer from India.</h3>
+<h3 align="center">A 24 y/o passionate fullstack JavaScript developer from India.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
