@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project to allow transfer ownership of real world assets via blockchain.🌱 I’m currently learning Solidity, Web3, Cryptography<br>💬 Ask me about React, Javascript<br>
+🔭 I’m currently working on a project to allow transfer ownership of real world assets via blockchain.<br>🌱 I’m currently learning Solidity, Web3, Cryptography<br>💬 Ask me about React, Javascript<br>
 
 
 ## 🌐 Socials:
