@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a project to allow transfer ownership of real world assets via blockchain.<br>💬 Ask me about React, Javascript<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhish-verma-44087720a) 
 
